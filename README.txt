@@ -11,7 +11,7 @@ to find the random number that it thought of.
 
 If you want to retry the game, you can simply click the "Again" button.
 
-Check out the custom favicon *wink *wink
+Check out the custom favicon 😉
 
 Here you can see my project in action: https://ionut-guess-my-number-application.netlify.app/
 
